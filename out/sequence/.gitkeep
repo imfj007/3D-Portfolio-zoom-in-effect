@@ -1,0 +1,3 @@
+# This file ensures the sequence folder is tracked by git
+# Add your frame images (ezgif-frame-*.jpg) to this folder
+# They should be organized as: ezgif-frame-000.jpg through ezgif-frame-143.jpg
